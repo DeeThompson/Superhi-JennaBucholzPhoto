@@ -1,3 +1,3 @@
 # Superhi-JennaBucholzPhoto
 
-This is a project ultizing more intricate Javascript.
+This is a project utilizing more intricate Javascript.
